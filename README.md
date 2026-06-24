@@ -24,7 +24,7 @@ current status:
 
 ```text
 [████████░░] learning something new
-[██████████] customizing my desktop
+[██████████] customizing my desktop for the 47th time 
 [██░░░░░░░░] touching grass
 ```
 
