@@ -1,18 +1,36 @@
+# yo, i'm Manvendra (`manv:3`)
+
 <img width="480" height="344" alt="happy-pixel-gif-by-smol-find-share-on-giphy" src="https://github.com/user-attachments/assets/c867e141-ae86-4948-91e6-c7e9ea6d4d04" />
 
-## Hi there 👋
+professional button presser.
 
-<!--
-**Glitched-manvendra/Glitched-manvendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+while(alive){
+    learn();
+    build();
+    break_linux();
+    fix_linux();
+}
+```
 
-Here are some ideas to get you started:
+things i mess with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 machine learning
+🐧 operating systems
+🎨 linux ricing
+⚙️ low-level stuff
+
+current status:
+
+```text
+[████████░░] learning something new
+[██████████] customizing my desktop
+[██░░░░░░░░] touching grass
+```
+
+i enjoy making computers do things they're probably not supposed to do.
+
+welcome to my digital playground.
+
+
+<img width="144" height="144" alt="pixel-art-coding-gif-by-smol-find-share-on-giphy" src="https://github.com/user-attachments/assets/61d6dc6e-83a4-4e2d-9075-0d38c62b615e" />
