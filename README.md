@@ -1,4 +1,5 @@
-![Uploading happy-pixel-gif-by-smol-find-share-on-giphy.gif…]()
+<img width="480" height="344" alt="happy-pixel-gif-by-smol-find-share-on-giphy" src="https://github.com/user-attachments/assets/c867e141-ae86-4948-91e6-c7e9ea6d4d04" />
+
 ## Hi there 👋
 
 <!--
