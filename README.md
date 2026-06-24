@@ -1,3 +1,4 @@
+![Uploading happy-pixel-gif-by-smol-find-share-on-giphy.gif…]()
 ## Hi there 👋
 
 <!--
