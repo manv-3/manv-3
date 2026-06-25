@@ -8,8 +8,8 @@ professional button presser.
 while(alive){
     learn();
     build();
-    break_linux();
-    fix_linux();
+    break();
+    fix();
 }
 ```
 
