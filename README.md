@@ -34,9 +34,9 @@ welcome to my digital playground.
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/<username>/<username>/blob/output/github-snake-dark.svg" />
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/<username>/<username>/blob/output/github-snake.svg" />
- <img alt="github-snake" src="https://github.com/<username>/<username>/blob/output/github-snake.svg" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/manv-3/manv-3/blob/output/github-snake-dark.svg" />
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/manv-3/manv-3/blob/output/github-snake.svg" />
+ <img alt="github-snake" src="https://github.com/manv-3/manv-3/blob/output/github-snake.svg" />
 </picture>
 
 
